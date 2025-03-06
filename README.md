@@ -104,6 +104,7 @@ conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1  pytorch-cuda
 pip install plyfile tqdm
 pip install submodules/diff-gaussian-rasterization
 pip install submodules/simple-knn
+pip install opencv-python
 ```
 
 #### Modifications
