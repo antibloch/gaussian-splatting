@@ -55,11 +55,9 @@ def main(args):
                     # Convert the frame to RGB and start the color identificatio and annotation process
                     # frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
-                    if current_frame>230 and current_frame<400:
-
-                        cv2.imwrite(f"dataset/input/image {extracted_count}.png", frame)
-                        original_image = Image.fromarray(frame)
-                        extracted_count += 1
+                    cv2.imwrite(f"dataset/input/image {extracted_count}.png", frame)
+                    original_image = Image.fromarray(frame)
+                    extracted_count += 1
 
                 current_frame += 1
 
