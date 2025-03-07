@@ -109,13 +109,13 @@ pip install opencv-python
 
 # Comparison of ground truth and renders
 
-[Video title](compare_renders/vid_object.mp4)
+[Object Rendering](compare_renders/vid_object.mp4)
 
 
-[Video title](compare_renders/vid_officescene.mp4)
+[Bounded Scene Rendering](compare_renders/vid_officescene.mp4)
 
 
-[Video title](compare_renders/vid_railscene.mp4)
+[Unbounded Scene Rendering](compare_renders/vid_railscene.mp4)
 
 #### Modifications
 
