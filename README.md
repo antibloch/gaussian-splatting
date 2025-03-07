@@ -107,8 +107,15 @@ pip install submodules/simple-knn
 pip install opencv-python
 ```
 
+# Comparison of ground truth and renders
+
+[Video title](compare_renders/vid_object.mp4)
 
 
+[Video title](compare_renders/vid_officescene.mp4)
+
+
+[Video title](compare_renders/vid_railscene.mp4)
 
 #### Modifications
 
