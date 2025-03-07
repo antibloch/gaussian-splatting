@@ -107,6 +107,13 @@ pip install submodules/simple-knn
 pip install opencv-python
 ```
 
+### Get rail masks
+
+```
+python extract_frames_overlapping.py --vid <name of video> --percent_frames 0.5
+python rail_marking/scripts/test_one_image.py --dir dataset/input
+```
+
 # Comparison of ground truth and renders
 
 [Object Rendering](compare_renders/vid_object.mp4)
