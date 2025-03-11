@@ -12,8 +12,8 @@ Then one can run two different resources "inria" and "nerfstudio" for gaussian s
 
 <!-- [Oracle Gaussian Splatting](assets/oracle.mp4) -->
 
-<video src="assets/oracle.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+[📽️ Oracle Rendering Video](assets/oracle.mp4)
 
 # Observaiton-0 (Inria's Implementation)
 When directly convert the video into frames, and using colmap and train script of this repo, I got following results.
